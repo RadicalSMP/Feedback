@@ -2,7 +2,7 @@
 name: Bug 反馈
 about: 遇到Bug？反馈后我们会尽快解决٩(•̤̀ᵕ•̤́๑)ᵒᵏᵎᵎᵎᵎ
 title: 'Bug:'
-labels: ''
+labels: bug
 assignees: ''
 
 ---
