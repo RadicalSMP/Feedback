@@ -2,7 +2,7 @@
 name: Suggestions 建议
 about: 对服务器现有或曾有功能的想法&建议可以在此提出
 title: 'Suggestion:'
-labels: Suggestion
+labels: ''
 assignees: ''
 
 ---
